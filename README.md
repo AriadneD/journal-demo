@@ -2,6 +2,8 @@
 
 This project is a **Mental Wellness Journal** built using **Vue.js** for the frontend, **Node.js/Express** for the backend, and **PostgreSQL** for the database. It helps users log their moods, visualize burnout levels, and receive actionable insights based on their journal entries.
 
+Demo Video Link: https://www.loom.com/share/9c9cae204e354e84bcfa0b427deda1c2 
+
 ---
 
 ## Features
